@@ -112,15 +112,13 @@ This page focuses on **operational performance and problem identification**.
 
 ---
 
-## 📸 Dashboard Preview
+### 📸 Dashboard Preview
 
 ### 🔹 Executive Overview
-
-![Executive Overview](Executive_Overview.png)
+![Executive Overview](https://raw.githubusercontent.com/shradha-pol/northwind-sales-dashboard/007ad2a7a6d305df8b017bd4cc01b26cdcbbd44a/Sales%20Overview.png)
 
 ### 🔹 Operational Insights
-
-![Operational Insights](Operational_Insights.png)
+![Operational Insights](https://raw.githubusercontent.com/shradha-pol/northwind-sales-dashboard/007ad2a7a6d305df8b017bd4cc01b26cdcbbd44a/Operational%20Insights.png)
 
 ---
 
